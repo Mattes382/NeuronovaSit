@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NeuronovaSit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NeuronovaSit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
